@@ -8,6 +8,8 @@
 
 ## 📜 Certificaciones
 <img width="150" height="150" alt="IMG_4043" src="https://github.com/user-attachments/assets/d5a7c907-6384-4ed1-b007-6a7db2170315" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/25ab724b-43d2-4609-bc4e-6aad0b32b9dd" />
+
 
 ## 🛠️ Stacks
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
