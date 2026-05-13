@@ -1,7 +1,10 @@
 ## Hola soy clotch 👋
+<img width="150" height="150" alt="IMG_4043" src="https://github.com/user-attachments/assets/d5a7c907-6384-4ed1-b007-6a7db2170315" />
+
 >[!IMPORTANT]
 > link de la insignia
 >https://www.credly.com/badges/9e6f41f1-c738-433d-8537-ab37285e135c
+
 <!--
 **xClotchx/xClotchx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
