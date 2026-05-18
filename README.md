@@ -8,6 +8,8 @@
 
 ## 📜 Certificaciones
 <img width="150" height="150" alt="IMG_4043" src="https://github.com/user-attachments/assets/d5a7c907-6384-4ed1-b007-6a7db2170315" />
+<img width="150" height="150" alt="Insignia Java" src="https://github.com/user-attachments/assets/693a7cd0-8a0f-4e19-9eb4-f80348f85d31" />
+
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/25ab724b-43d2-4609-bc4e-6aad0b32b9dd" />
 
 
